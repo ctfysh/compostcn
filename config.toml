@@ -88,9 +88,9 @@ heading = "The premier destination for modern art in Northern Sweden. Open from 
 # call to action
 [params.call_to_action]
 enable = true
-title = "Contact us for more information."
+title = "联系我们获取更多信息。"
 content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
+button_label = "联系我们"
 button_url = "contact"
 
 # gallery
