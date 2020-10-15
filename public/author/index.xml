@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on 中国厨余堆肥</title>
+    <link>/author/</link>
+    <description>Recent content in Author on 中国厨余堆肥</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 15:40:24 +0600</lastBuildDate><atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Admin</title>
+      <link>/author/admin/</link>
+      <pubDate>Tue, 14 Jul 2020 15:40:24 +0600</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frida Gomam</title>
+      <link>/author/frida-gomam/</link>
+      <pubDate>Sun, 14 Jun 2020 15:40:24 +0600</pubDate>
+      
+      <guid>/author/frida-gomam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
