@@ -7,7 +7,7 @@ date: "2020-03-14T15:40:24+06:00"
 description: This is meta description
 draft: false
 image: images/2020-three-quarters-3.png
-tage:
+tags:
 - tags
 title: Theatre of Operations
 ---

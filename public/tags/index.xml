@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>tags</title>
+      <link>/tags/tags/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tour</title>
       <link>/tags/tour/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
@@ -58,6 +67,15 @@
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Thu, 23 Jul 2015 15:40:24 +0600</pubDate>
+      
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
